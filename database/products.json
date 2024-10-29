@@ -1,0 +1,50 @@
+[
+    {
+        "id": "f522ce7f-95ba-42e4-8a48-68497a632b43",
+        "model": "LOQ",
+        "price": 650,
+        "company": "LENOVO"
+    },
+    {
+        "id": "f522ce7f-95ba-42e4-8a48-68497a632b43zz",
+        "model": "LOQ",
+        "price": 650,
+        "company": "LENOVO"
+    },
+    {
+        "id": "f522ce7f-95ba-42e4-8a48-68497a632b43saa",
+        "model": "LOQ",
+        "price": 650,
+        "company": "LENOVO"
+    },
+    {
+        "id": "f522ce7f-95ba-42e4-8a48-68497a632b43Ddd",
+        "model": "LOQ",
+        "price": 650,
+        "company": "LENOVO"
+    },
+    {
+        "id": "f522ce7f-95ba-42e4-8a48-68497a632b43aaaa",
+        "model": "LOQ",
+        "price": 650,
+        "company": "LENOVO"
+    },
+    {
+        "id": "36cbcf2a-bbb5-465b-af01-1594ee32fad4",
+        "model": "nmadir",
+        "price": 500,
+        "company": "LENOVO"
+    },
+    {
+        "id": "36cbcf2a-bbb5-465b-af01-1594ee32fad4",
+        "model": "Acer",
+        "price": 500,
+        "company": "Acer"
+    },
+    {
+        "id": "36cbcf2a-bbb5-465b-af01-1594ee32fad4",
+        "model": "Acer",
+        "price": 500,
+        "company": "Acer"
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "9-dars",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
